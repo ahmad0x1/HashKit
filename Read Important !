@@ -6,6 +6,7 @@ To run the tool :
 - Open Terminal
 - Go to HashKit dir
 - run command : ./HashKit
+( If premission is denied , run : chmod +x ./HashKit )
 
 In the third option : 
 Dont use '' when writing wordlist path . 
